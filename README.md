@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kyleearth)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kyleearth&theme=dark)](https://git.io/streak-stats)
 
 #### My current languages known are:
 
