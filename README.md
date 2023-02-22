@@ -4,16 +4,17 @@
 
 #### My current languages known are:
 
-1. Python 
-2. Java ☕
+1. Python ☕
+2. Java 
 3. NodeJS
-4. C
+4. MATLAB
 5. C++
 6. C#
 7. HTML
 8. CSS
 9. SQL
 10. R
+
 
 
 - 🔭 I’m currently working on school work
